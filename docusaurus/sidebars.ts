@@ -84,6 +84,7 @@ const sidebars: SidebarsConfig = {
             "servers/memcached-mcp-server",
             "servers/timestream-for-influxdb-mcp-server",
             "servers/amazon-keyspaces-mcp-server",
+            "servers/lakeformation-mcp-server",
             "servers/amazon-neptune-mcp-server",
             "servers/aurora-dsql-mcp-server",
             "servers/mysql-mcp-server",

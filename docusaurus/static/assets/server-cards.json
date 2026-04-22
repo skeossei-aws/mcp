@@ -464,6 +464,26 @@
     },
     {
       "category": "Data & Analytics",
+      "description": "Read-only Lake Formation configuration inspection, resource listing, and permission auditing",
+      "icon": "\ud83d\udcca",
+      "id": "lakeformation-mcp-server",
+      "name": "AWS Lake Formation MCP Server",
+      "source_path": "src/lakeformation-mcp-server/",
+      "subcategory": "SQL & NoSQL Databases",
+      "tags": [
+        "data-analytics",
+        "lake-formation",
+        "data-lake",
+        "permissions",
+        "autonomous",
+        "data-operations"
+      ],
+      "workflows": [
+        "autonomous"
+      ]
+    },
+    {
+      "category": "Data & Analytics",
       "description": "PostgreSQL database operations via RDS Data API",
       "icon": "\ud83d\udcca",
       "id": "postgres-mcp-server",
